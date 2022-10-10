@@ -5,14 +5,7 @@ Vincent Santaygillo
 
 Make sure you have flask and installed in your Python Environment.
 
-There are two independent programs in this repository, follow the steps below to run them.
-
-Steps for Multiplication Table:
-
-    1. Download the MulpiplicationTable folder
-    2. Run main.py using CMD.
-    3. Access the provided localhost URL( "http://localhost:5000/" is the default).
-    4. Enter "http://localhost:5000/hello/number" in your browser.(Make sure to replace "number" with your desired number)
+This is a basic template for using HTML and CSS with flask.
 
 Steps for MessageCSS:
 
